@@ -8,7 +8,8 @@ print("hello Nikhil")
 
 print("Hello Neha , how are you")
 
-print("hello rupali")
+print("hello Rupali")
 
 print("hello komal")
+
 print("hiiiiiiiiiiiiiii")
